@@ -1,7 +1,7 @@
 # OKTank
 Physics-based Unity3D Tank Controller inspired off FRC robots driven with two joysticks. Made to be a realistic simulation of driving a tank both in terms of physics and controls.
 
-This is old Code that I've now open-sourced, it's provided as-is and not supported. Would appreciate being credited if you use it for a purpose.
+This is old code that I've now open-sourced, it's provided as-is and not supported. Would appreciate being credited if you use it for a purpose.
 
 You have two control schemes:
 - Tank Drive: Each track is controlled by an individual axis for maximum control and realism.
