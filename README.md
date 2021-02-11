@@ -8,5 +8,7 @@ You have two control schemes:
 - WASD: Controlled by the standard Vertical and Horizontal axes in Unity.
 
 OKTank provides the driving physics for a tank using WheelColliders, and a good example setup. It's portable as long as you use WASD, will take a setup to do proper tank drive.
+
 I'd advise messing with Wheel number, location and slip values for different behaviors.
+
 You are not provided anything that helps you simulate the gun or the visual appearance of tracks on an actual tank.
