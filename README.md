@@ -3,7 +3,7 @@ Physics-based Unity3D Tank Controller inspired off FRC robots driven with two jo
 
 This is old Code that I've now open-sourced, it's provided as-is and not supported. Would appreciate being credited if you use it for a purpose.
 
-Controls: You have two schemes:
+You have two control schemes:
 - Tank Drive: Each track is controlled by an individual axis for maximum control and realism.
 - WASD: Controlled by the standard Vertical and Horizontal axes in Unity.
 
