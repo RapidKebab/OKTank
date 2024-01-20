@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TankDrive : MonoBehaviour {
+public class TankEx : MonoBehaviour {
 
 	public WheelCollider [] leftWheels;
 	public WheelCollider [] rightWheels;
